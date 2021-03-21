@@ -1,2 +1,5 @@
-# BootstrapTrial
-Building upon the bootstrap framework using airplanes
+# Project 0
+
+Web Programming with Python and JavaScript
+
+Hello this is my website, it is cool
