@@ -1,5 +1,1 @@
-# Project 0
-
-Web Programming with Python and JavaScript
-
-Hello this is my website, it is cool
+Web programming using Bootstrap and airplanes. Just some trials trying to learn
